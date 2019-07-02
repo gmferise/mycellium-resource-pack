@@ -36,4 +36,4 @@ Once it's downloaded, open the .ZIP file and move the folder inside to your reso
 ![Nuggets](https://github.com/gmferise/mycellium-resource-pack/blob/images/cap13.png?raw=true)
 ## Blocks
 - Removed the skull icon from mobspawners
-![Mobspawner](https://github.com/gmferise/mycellium-resource-pack/blob/images/cap11.png?raw=true)
+![Mobspawner](https://github.com/gmferise/mycellium-resource-pack/blob/images/cap14.png?raw=true)
