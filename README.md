@@ -7,9 +7,9 @@
 - Pumpkins letterbox your screen rather than cover it entirely when worn
 - Heart coloration for absorbtion, poison, and wither are more saturated and flashy
 - Heart coloration for wither is purple rather than black
-- Glowing icon no longer has a skeleton in it
-- Haste icon has shorter pickaxe ends
-- Mining fatigue icon has a slimmer spoon handle
+- Glowing effect icon no longer has a skeleton in it
+- Haste effect icon has shorter pickaxe ends
+- Mining fatigue effect icon has a slimmer spoon handle
 ## Items
 - Baked potatoes are white on the inside and golden brown on the outside
 - Dried kelp is less bulky and matches the kelp block color
