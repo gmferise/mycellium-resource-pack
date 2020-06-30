@@ -1,12 +1,12 @@
 # Installation Guide
 If you've never used GitHub for resource packs before, it's pretty simple.
-Click the green Clone or Download button and select .ZIP File.
+Click the green Clone or Download button and select .ZIP File *or* go to [the releases page](https://github.com/gmferise/mycellium-resource-pack/releases) and choose a release version.
 Once it's downloaded, open the .ZIP file and move the folder inside to your resource packs folder. If you paste `%appdata%\.minecraft\resourcepacks` into the path bar in the file explorer, it will take you there.
 
 # List of Changes (From Default)
 ## Combat & UI
 - Crosshair and below-crosshair attack indicator are less bulky
-- Attack indicator turns red when ready to strike
+- Attack indicator becomes colored when ready to strike
 ![Attack Indicator and Crosshair](https://github.com/gmferise/mycellium-resource-pack/blob/images/cap01.png?raw=true)
 - All armor types are less bulky and obscuring of your skin, but can still be easily identified
 ![Armor](https://github.com/gmferise/mycellium-resource-pack/blob/images/cap02.png?raw=true)
@@ -24,6 +24,8 @@ Once it's downloaded, open the .ZIP file and move the folder inside to your reso
 - Mining fatigue effect icon has a slimmer spoon handle
 ![Effects](https://github.com/gmferise/mycellium-resource-pack/blob/images/cap08.png?raw=true)
 ## Items
+- Most tools have damaged versions that appear when the item has 5 or less uses
+![Damaged Tools](https://github.com/gmferise/mycellium-resource-pack/blob/images/cap14.png?raw=true)
 - Baked potatoes are white on the inside and golden brown on the outside
 ![Baked Potato](https://github.com/gmferise/mycellium-resource-pack/blob/images/cap09.png?raw=true)
 - Dried kelp is less bulky and matches the kelp block color
