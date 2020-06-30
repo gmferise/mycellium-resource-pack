@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/shears"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "damaged": 1,
+        "damage": 0.978
+      },
+        "model": "item/shears_damaged"
+    }
+  ]
+}

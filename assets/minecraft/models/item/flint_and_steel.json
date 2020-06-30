@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/flint_and_steel"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "damaged": 1,
+        "damage": 0.925
+      },
+        "model": "item/flint_and_steel_damaged"
+    }
+  ]
+}

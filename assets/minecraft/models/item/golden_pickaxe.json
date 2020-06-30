@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_pickaxe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "damaged": 1,
+        "damage": 0.84
+      },
+        "model": "item/golden_pickaxe_damaged"
+    }
+  ]
+}
