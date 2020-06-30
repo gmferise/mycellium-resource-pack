@@ -25,7 +25,7 @@ Once it's downloaded, open the .ZIP file and move the folder inside to your reso
 ![Effects](https://github.com/gmferise/mycellium-resource-pack/blob/images/cap08.png?raw=true)
 ## Items
 - Most tools have damaged versions that appear when the item has 5 or less uses
-![Damaged Tools](https://github.com/gmferise/mycellium-resource-pack/blob/images/cap14.png?raw=true)
+![Damaged Tools](https://github.com/gmferise/mycellium-resource-pack/blob/images/cap15.png?raw=true)
 - Baked potatoes are white on the inside and golden brown on the outside
 ![Baked Potato](https://github.com/gmferise/mycellium-resource-pack/blob/images/cap09.png?raw=true)
 - Dried kelp is less bulky and matches the kelp block color
