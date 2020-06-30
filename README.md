@@ -7,35 +7,62 @@ Once it's downloaded, open the .ZIP file and move the folder inside to your reso
 ## Combat & UI
 - Crosshair and below-crosshair attack indicator are less bulky
 - Attack indicator becomes colored when ready to strike
+
 ![Attack Indicator and Crosshair](https://github.com/gmferise/mycellium-resource-pack/blob/images/attack.gif?raw=true)
+
 - All armor types are less bulky and obscuring of your skin, but can still be easily identified
+
 ![Armor](https://github.com/gmferise/mycellium-resource-pack/blob/images/armor.png?raw=true)
+
 - Fire is 25% shorter to provide increased visibility while alight
+
 ![Fire](https://github.com/gmferise/mycellium-resource-pack/blob/images/fire.png?raw=true)
+
 - Pumpkins letterbox your screen rather than cover it entirely when worn
+
 ![Pumpkin Blur](https://github.com/gmferise/mycellium-resource-pack/blob/images/pumpkinblur.png?raw=true)
+
 - Heart coloration for absorbtion, poison, and wither are more saturated and flashy
 - Heart coloration for wither is purple rather than black
+
 ![Absorption](https://github.com/gmferise/mycellium-resource-pack/blob/images/absorption_hearts.png?raw=true)
+
 ![Poison](https://github.com/gmferise/mycellium-resource-pack/blob/images/poison_hearts.png?raw=true)
+
 ![Wither](https://github.com/gmferise/mycellium-resource-pack/blob/images/wither_hearts.png?raw=true)
+
 - Glowing effect icon no longer has a skeleton in it
 - Haste effect icon has shorter pickaxe ends
 - Mining fatigue effect icon has a slimmer spoon handle
+
 ![Effects](https://github.com/gmferise/mycellium-resource-pack/blob/images/effect_icons.png?raw=true)
+
 ## Items
 - Most tools have damaged versions that appear when the item has 5 or less uses
+
 ![Damaged Tools](https://github.com/gmferise/mycellium-resource-pack/blob/images/damaged_tools.png?raw=true)
+
 - Baked potatoes are white on the inside and golden brown on the outside
+
 ![Baked Potato](https://github.com/gmferise/mycellium-resource-pack/blob/images/baked_potato.png?raw=true)
+
 - Dried kelp is less bulky and matches the kelp block color
+
 ![Dried Kelp](https://github.com/gmferise/mycellium-resource-pack/blob/images/dried_kelp.png?raw=true)
+
 - Cooked cod and cooked salmon are just the meat instead of the whole fish and the fishes are thiccer
+
 ![Cooked Fish](https://github.com/gmferise/mycellium-resource-pack/blob/images/fish.png?raw=true)
+
 - Reduced the size of the central strawberry on the cake
+
 ![Cake](https://github.com/gmferise/mycellium-resource-pack/blob/images/cake.png?raw=true)
+
 - Iron and gold nuggets have the same shape
+
 ![Nuggets](https://github.com/gmferise/mycellium-resource-pack/blob/images/nuggets.png?raw=true)
+
 ## Blocks
 - Removed the skull icon from mobspawners
+
 ![Mobspawner](https://github.com/gmferise/mycellium-resource-pack/blob/images/spawner.png?raw=true)
