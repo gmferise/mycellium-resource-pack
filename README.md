@@ -1,7 +1,8 @@
 # Installation Guide
 If you've never used GitHub for resource packs before, it's pretty simple.
-Click the green Clone or Download button and select .ZIP File *or* go to [the releases page](https://github.com/gmferise/mycellium-resource-pack/releases) and choose a release version.
-Once it's downloaded, open the .ZIP file and move the folder inside to your resource packs folder. If you paste `%appdata%\.minecraft\resourcepacks` into the path bar in the file explorer, it will take you there.
+Go to [the releases page](https://github.com/gmferise/mycellium-resource-pack/releases) and choose a release version to download. Make sure you download the zip, not the tar.gz.
+Once it's downloaded, open the .ZIP file and move the folder inside to your resource packs folder.
+You can locate your resource packs folder by clicking "Open Pack Folder" in the Resourcepacks menu of Minecraft, or you can get there by pasting `%appdata%\.minecraft\resourcepacks` into the path bar of file explorer.
 
 # List of Changes (From Default)
 ## Combat & UI
