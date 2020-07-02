@@ -63,6 +63,10 @@ You can locate your resource packs folder by clicking "Open Pack Folder" in the 
 
 ![Nuggets](https://github.com/gmferise/mycellium-resource-pack/blob/images/nuggets.png?raw=true)
 
+- Lanterns have a handle when held, and are held and shown in the inventory as a 3D model
+
+![Lanterns](https://github.com/gmferise/mycellium-resource-pack/blob/images/lanterns.png?raw=true)
+
 ## Blocks
 - Removed the skull icon from mobspawners
 
