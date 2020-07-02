@@ -1,7 +1,6 @@
 # Installation Guide
 If you've never used GitHub for resource packs before, it's pretty simple.
-Go to [the releases page](https://github.com/gmferise/mycellium-resource-pack/releases) and choose a release version to download. Make sure you download the zip, not the tar.gz.
-Once it's downloaded, open the .ZIP file and move the folder inside to your resource packs folder.
+Go to [the releases page](https://github.com/gmferise/mycellium-resource-pack/releases) and choose a release version to download. Download the file under the release with a name like `Mycellium-v1.2-VersionName.zip`, not one of the Source versions.
 You can locate your resource packs folder by clicking "Open Pack Folder" in the Resourcepacks menu of Minecraft, or you can get there by pasting `%appdata%\.minecraft\resourcepacks` into the path bar of file explorer.
 
 # List of Changes (From Default)
