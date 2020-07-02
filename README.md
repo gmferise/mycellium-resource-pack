@@ -1,7 +1,9 @@
 # Installation Guide
 If you've never used GitHub for resource packs before, it's pretty simple.
-Go to [the releases page](https://github.com/gmferise/mycellium-resource-pack/releases) and choose a release version to download. Download the file under the release with a name like `Mycellium-v1.2-VersionName.zip`, not one of the Source versions.
-You can locate your resource packs folder by clicking "Open Pack Folder" in the Resourcepacks menu of Minecraft, or you can get there by pasting `%appdata%\.minecraft\resourcepacks` into the path bar of file explorer.
+- Go to [the releases page](https://github.com/gmferise/mycellium-resource-pack/releases) and choose a release version to download. Make sure you download the file under the release with a name like `Mycellium-v1.2-VersionName.zip`, not one of the Source versions.
+- Locate your resource packs folder by clicking "Open Pack Folder" in the Resourcepacks menu of Minecraft, or by pasting `%appdata%\.minecraft\resourcepacks` into the path bar of file explorer.
+- Move the downloaded zip file into the resource packs folder
+- Equip the pack in-game. (You may need to restart your client or press F3+T before the pack shows in the menu).
 
 # List of Changes (From Default)
 ## Combat & UI
