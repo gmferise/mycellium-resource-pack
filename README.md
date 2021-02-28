@@ -31,4 +31,4 @@ You can get access to changes before they're bundled into a release using one of
 # Contributing
 If you have a suggestion or feedback, [open an issue](https://github.com/gmferise/mycellium-resource-pack/issues).
 
-If you want to edit or contribute textures directly, fork the repo and [open a pull request](https://github.com/gmferise/mycellium-resource-pack/pulls).
+If you want to edit or contribute textures directly, [fork the repo](https://docs.github.com/articles/fork-a-repo) and [open a pull request](https://github.com/gmferise/mycellium-resource-pack/pulls).
