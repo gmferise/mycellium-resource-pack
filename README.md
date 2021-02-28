@@ -1,3 +1,10 @@
+# Goals
+* Stay faithful to vanilla ideals
+* Improve accessibility by increasing visibility and readability
+* Improve consistency among items and blocks
+* Provide quality of life improvements
+* Make ugly things look better
+
 # Installation Guide
 
 ## Recommended Version: Releases
@@ -20,3 +27,8 @@ You can get access to changes before they're bundled into a release using one of
   * `cd ~/AppData/Roaming/.minecraft/resourcepacks`
   * `git clone git@github.com:gmferise/mycellium-resource-pack.git`
   * To Sync: `cd ~/AppData/Roaming/.minecraft/resourcepacks/mycellium-resource-pack && git pull`
+
+# Contributing
+If you have a suggestion or feedback, [open an issue](https://github.com/gmferise/mycellium-resource-pack/issues).
+
+If you want to edit or contribute textures directly, fork the repo and [open a pull request](https://github.com/gmferise/mycellium-resource-pack/pulls).
