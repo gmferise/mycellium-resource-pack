@@ -7,7 +7,7 @@
     {
       "predicate": {
         "damaged": 1,
-        "damage": 0.98
+        "damage": 0.85
       },
         "model": "item/iron_sword_damaged"
     }
